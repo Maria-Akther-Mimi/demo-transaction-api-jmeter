@@ -21,7 +21,6 @@ A report will be generate in your project source root
 
 ## Html Report
 
-![screencapture-file-E-SQA-Road-to-SDET-Assignment-dmoney-assignment-b7-Reports-report-html-2023-06-01-01_26_42](https://github.com/Maria-Akther-Mimi/dmoney-assignment/assets/134642219/ea8cb546-79cf-4726-9648-5c034fbb9d1a)
 
 
 ## User documentation:
