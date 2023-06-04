@@ -35,11 +35,11 @@ https://drive.google.com/file/d/1fjjGd8G-aJL9d5JERaM9h0tpbVXWX_IS/view?usp=shari
 
 ## User documentation:
 Will get the user API URL, endpoint, header info and demo data from here:
-https://documenter.getpostman.com/view/1844288/UzBiQpVN
+- https://documenter.getpostman.com/view/1844288/UzBiQpVN
 
 ## Transaction documentation:
 Will get the transaction API URL, endpoint, header info and demo data from here:
-https://documenter.getpostman.com/view/1844288/2s7YmzAhnk
+- https://documenter.getpostman.com/view/1844288/2s7YmzAhnk
 
 
 
