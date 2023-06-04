@@ -23,8 +23,7 @@ Add following requests:
 -	Save the dmoney-assignment.jmx file into bin folder of installed location of Jmeter
 -	Open the dmoney-assignment.jmx file with jemeter & run the project
 -	To Generate report on the command prompt, delete the already copied .csv file and Report folder from the project
--	Hit the command for html report:
-   - $ jmeter -n -t dmoney-assignment.jmx -l dmoney-assignment.csv -e -o Reports
+-	Hit the command for html report:  $ jmeter -n -t dmoney-assignment.jmx -l dmoney-assignment.csv -e -o Reports
 
 
 ## Report
