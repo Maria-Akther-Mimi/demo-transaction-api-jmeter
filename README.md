@@ -8,14 +8,14 @@ Apache JMeter
 Java
 
 ## Scenario
-Add following requests:
-•	Admin creates an agent and a customer
-•	Deposit 2000 tk to agent from system account (fromAc: SYSTEM)
-•	Deposit 1000 tk to customer from agent account
-•	Check balance from customer account
-•	Withdraw 500 tk from customer account
-•	Payment 200 tk from customer account (Merchant account:	01686606905)
-•	Assert expected customer balance
+- Add following requests:
+- Admin creates an agent and a customer
+-	Deposit 2000 tk to agent from system account (fromAc: SYSTEM)
+-	Deposit 1000 tk to customer from agent account
+-	Check balance from customer account
+-	Withdraw 500 tk from customer account
+-	Payment 200 tk from customer account (Merchant account:	01686606905)
+-	Assert expected customer balance
 
 
 ## How to run this project
